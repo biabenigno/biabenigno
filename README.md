@@ -1,3 +1,4 @@
-| <img src="https://i.imgur.com/Ozsyrfy.gif" alt="Descrição do GIF" height="300" width="280"> | ## Bem-vindo ao meu GitHub! |
+| <img src="https://i.imgur.com/Ozsyrfy.gif" alt="Descrição do GIF" height="300" width="280"> | ## Bem-vindo ao meu GitHub! A
+inda não tenho muito conteúdo aqui, pois tenho pouca experiência prática. No entanto, durante meu aprendizado, vou atualizar meu perfil e compartilhar mais projetos!  |
 | ------------------------------------------ | --------------------------- |
-||Ainda não tenho muito conteúdo aqui, pois tenho pouca experiência prática. No entanto, durante meu aprendizado, vou atualizar meu perfil e compartilhar mais projetos! 
+||
