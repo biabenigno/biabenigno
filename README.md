@@ -2,4 +2,4 @@
 
 Ainda não tenho muito conteúdo aqui, pois tenho pouca experiência prática. 
 
-No entanto, durante meu aprendizado, vou atualizar este perfil e compartilhar mais projetos!  
+Durante meu aprendizado, vou atualizando este perfil e compartilhando mais projetos!  
