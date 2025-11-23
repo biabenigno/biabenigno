@@ -1,5 +1,4 @@
 ## Bem-vindo ao meu GitHub!
 
-Ainda não tenho muito conteúdo aqui, pois tenho pouca experiência prática. 
-
-Durante meu aprendizado, vou atualizando este perfil e compartilhando mais projetos!  
+No geral, aqui você encontra meus trabalhos da faculdade ou processos seletivos.
+Ainda não tive tempo e disposição para um projeto pessoal legal o suficiente pra estar aqui... me formar na faculdade talvez resolva esse problema haha
